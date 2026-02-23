@@ -1,0 +1,40 @@
+# WordPress .gitignore
+# Generated from careful code review and analysis
+
+# Configuration file (contains sensitive database credentials and secret keys)
+wp-config.php
+
+# Uploads directory (user-generated content)
+wp-content/uploads/
+
+# Upgrade files
+wp-content/upgrade/
+
+# Cache files
+wp-content/cache/
+
+# Backup files
+wp-content/backups/
+wp-content/backup-db/
+
+# Log files
+*.log
+debug.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
