@@ -136,33 +136,17 @@
 				<!-- /wp:heading -->
 
 				<!-- wp:paragraph -->
-				<p>Have a question about a specific stamp or need help with your order? Fill in your details below and we'll get back to you as soon as possible.</p>
+				<p>Have a question about a specific stamp or need help with your order? We're here to help! Reach out to us using any of the contact methods listed on this page.</p>
 				<!-- /wp:paragraph -->
 
-				<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
-				<div class="wp-block-group">
-					<!-- wp:paragraph -->
-					<p><strong>Name:</strong> ___________________________</p>
-					<!-- /wp:paragraph -->
-					<!-- wp:paragraph -->
-					<p><strong>Email:</strong> ___________________________</p>
-					<!-- /wp:paragraph -->
-					<!-- wp:paragraph -->
-					<p><strong>Message:</strong></p>
-					<!-- /wp:paragraph -->
-					<!-- wp:paragraph -->
-					<p>___________________________</p>
-					<!-- /wp:paragraph -->
-					<!-- wp:paragraph -->
-					<p>___________________________</p>
-					<!-- /wp:paragraph -->
-				</div>
-				<!-- /wp:group -->
+				<!-- wp:paragraph -->
+				<p>Our team typically responds within 24 hours during business days. For urgent inquiries, please call us directly.</p>
+				<!-- /wp:paragraph -->
 
 				<!-- wp:buttons -->
 				<div class="wp-block-buttons">
 					<!-- wp:button {"width":100} -->
-					<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link wp-element-button">Send Message</a></div>
+					<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link wp-element-button" href="mailto:support@stampstoresco.shop">Email Us Now</a></div>
 					<!-- /wp:button -->
 				</div>
 				<!-- /wp:buttons -->
